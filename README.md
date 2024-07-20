@@ -1,0 +1,1 @@
+# nx-react-native-template
